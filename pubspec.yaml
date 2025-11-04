@@ -1,5 +1,5 @@
 name: teka
-description: "A new Flutter project."
+description: "Expense Tracker is your go-to app for effortless financial management. Built with Flutter, this lightweight tool lets you track monthly income and expenses with ease. Add transactions on the fly, categorize spending, and get instant insights into your budget through simple charts and summaries. Whether you're saving for a goal or just keeping tabs on daily costs, Expense Tracker helps you stay in control—securely stored on your device, no internet required. Perfect for busy individuals seeking a clean, intuitive way to handle personal finances. Download now and start budgeting smarter!"
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
