@@ -54,11 +54,6 @@ Note: This app requires Flutter SDK version 3.0.0 or higher. Make sure your envi
 4. **Customize Categories**: Go to settings to manage categories.
 5. **Generate Reports**: From the reports section, view or export data.
 
-Screenshots:
-- [Dashboard](screenshots/dashboard.png)
-- [Add Transaction](screenshots/add_transaction.png)
-- [Monthly Report](screenshots/monthly_report.png)
-
 ## Contributing
 
 Contributions are welcome! If you'd like to improve the app:
